@@ -54,6 +54,9 @@ body::-webkit-scrollbar-thumb:hover {
 .logo-navbar {
   padding-right: 40px; }
 
+.logo-navbar {
+  padding-right: 40px; }
+
 .register-and-login {
   display: flex;
   gap: 20px;
