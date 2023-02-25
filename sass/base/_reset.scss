@@ -73,6 +73,10 @@ body::-webkit-scrollbar-thumb:hover{
     padding-right: 40px;
 }
 
+.logo-navbar {
+    padding-right: 40px;
+}
+
 .register-and-login{
     display: flex;
     gap: 20px;
@@ -1240,7 +1244,6 @@ body::-webkit-scrollbar-thumb:hover{
     text-align: center;
     margin: 0 0 16px 0;
 }
-
 
 @media screen and (max-width: 1200px) {
      .main-banner{
@@ -3450,3 +3453,4 @@ body::-webkit-scrollbar-thumb:hover{
         letter-spacing: 2px;
     }
 }
+
